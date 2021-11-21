@@ -1,4 +1,6 @@
+/* Importando uma biblioteca do Java */
 import javax.swing.*;
+
 
     public class HelloJava {
         public static void main(String[] args) {
